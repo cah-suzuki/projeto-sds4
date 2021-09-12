@@ -25,9 +25,7 @@ function Dashboard() {
                     <h2 className="text-primary">Todas as Vendas</h2>
 
                 </div>
-
-
-                <DataTable />
+               <DataTable />
             </div>
             <Footer />
         </>
